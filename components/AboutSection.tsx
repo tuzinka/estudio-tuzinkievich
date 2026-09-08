@@ -50,7 +50,7 @@ export default function AboutSection() {
           <div className="lg:col-span-7 order-1 lg:order-2 space-y-6">
             
             <p className="text-lg text-dark-800 leading-relaxed font-normal">
-              Fundado por el <strong className="font-semibold text-dark-900">Contador Mario Roberto Tuzinkievich</strong>, nuestro estudio nació con una premisa fundamental: brindar un asesoramiento contables e impositivo serio, riguroso y por sobre todo, humano.
+              Fundado por el <strong className="font-semibold text-dark-900">Contador Mario Roberto Tuzinkievich</strong>, nuestro estudio nació con una premisa fundamental: brindar un asesoramiento contable e impositivo serio, riguroso y por sobre todo, humano.
             </p>
 
             <p className="text-base text-dark-600 leading-relaxed">

@@ -16,12 +16,10 @@ export default function HeroSection() {
           {/* Text Content Column */}
           <div className="lg:col-span-7 space-y-6 text-left">
             
-            {/* Location & Brand Badge */}
+            {/* Location Badge */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-brand-50 border border-brand-200/60 text-brand-800 text-xs font-semibold tracking-wide uppercase">
               <MapPin className="w-3.5 h-3.5 text-brand-500" />
               <span>San Vicente, Misiones</span>
-              <span className="text-brand-300">•</span>
-              <span>Estudio Contable Institucional</span>
             </div>
 
             {/* Sub-header name */}

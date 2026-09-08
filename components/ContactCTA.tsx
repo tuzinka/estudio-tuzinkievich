@@ -77,7 +77,7 @@ export default function ContactCTA() {
               
               <div className="bg-white p-6 rounded-2xl border border-dark-900/5 shadow-card space-y-4">
                 <h3 className="text-sm font-semibold text-dark-900 uppercase tracking-wider text-brand-700">
-                  Información Institucional
+                  Información de Contacto
                 </h3>
 
                 {/* Location */}

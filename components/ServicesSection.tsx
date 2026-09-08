@@ -13,7 +13,7 @@ export default function ServicesSection() {
         "Inscripciones y recategorizaciones (Monotributo y Responsable Inscripto)",
         "Liquidación de IVA, Ganancias y Bienes Personales",
         "Ingresos Brutos ATM Misiones y Convenio Multilateral",
-        "Confección y auditoría de Balances Comerciales",
+        "Confección y presentación de Balances Comerciales.",
       ],
     },
     {
@@ -36,7 +36,7 @@ export default function ServicesSection() {
       items: [
         "Liquidación mensual de sueldos y jornales por convenio",
         "Confección y presentación de Cargas Sociales (F.931)",
-        "Libro de Sueldos Digital y recibos de sueldo",
+        "Emisión de recibos de sueldo y gestión del Libro de Sueldos Digital (LSD).",
         "Asesoramiento preventivo en consultas laborales",
       ],
     },
@@ -47,8 +47,8 @@ export default function ServicesSection() {
         "Proporcionamos una mirada clara de tus números para planificar inversiones, reducir riesgos y tomar decisiones con tranquilidad.",
       items: [
         "Planificación fiscal responsable y eficiente",
-        "Análisis de costos operativos y márgenes de rentabilidad",
-        "Informes económicos periódicos para la dirección",
+        "Análisis de costos operativos y orientación en márgenes de rentabilidad.",
+        "Informes periódicos de gestión y situación fiscal para titulares.",
         "Asesoramiento en proyectos de expansión o reestructuración",
       ],
     },
@@ -69,7 +69,7 @@ export default function ServicesSection() {
             </h2>
           </div>
           <p className="text-sm text-dark-600 max-w-md">
-            Un servicio integral y profesional adaptado a la escala de cada cliente, garantizando tranquilidad fiscal y rigor técnico.
+            Un servicio integral y profesional adaptado a la escala de cada cliente, brindando tranquilidad fiscal y rigor técnico.
           </p>
         </div>
 
